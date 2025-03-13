@@ -21,10 +21,10 @@
 > - [My Favorite Stacks!](https://github.com/stars/zudydy/lists/favorite-stacks) ⤴
 
 ##### main 🔥
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css,vercel,git,github,webstorm,md,pnpm,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,vercel,git,github,webstorm,pnpm)](https://skillicons.dev)
 
 ##### + interested 👀
-[![My Skills](https://skillicons.dev/icons?i=rust,go,nestjs,docker,kubernetes,aws,mysql,prisma,supabase,tauri,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,nestjs,docker,kubernetes,prisma,tauri,vitest)](https://skillicons.dev)
 
 <br/>
 
