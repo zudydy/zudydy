@@ -9,7 +9,7 @@
 
 #### 💻 Work experience
 
-> - **전능아이티**(**@**[**almsmartdoctor**](https://github.com/almsmartdoctor)) | Frontend Enginner | 23.11 ~
+> - **전능아이티**(**@**[**almsmartdoctor**](https://github.com/almsmartdoctor)) | Frontend Enginner | 23.11 ~ 26.02
 >
 > - **컬리**(**@**[**thefarmersfront**](https://github.com/thefarmersfront)) | Frontend Enginner (Co-op) | 22.04 - 22.12
 >
@@ -18,13 +18,7 @@
 <br/>
 
 #### 📚 Stacks 
-> - [My Favorite Stacks!](https://github.com/stars/zudydy/lists/favorite-stacks) ⤴
-
-##### main 🔥
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,vercel,git,github,webstorm,pnpm)](https://skillicons.dev)
-
-##### + interested 👀
-[![My Skills](https://skillicons.dev/icons?i=rust,go,nestjs,docker,kubernetes,prisma,tauri,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,vercel,git,github,pnpm)](https://skillicons.dev)
 
 <br/>
 
