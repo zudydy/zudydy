@@ -3,7 +3,7 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fzudydy?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 #### 🎓 Education
-> - **소프트웨어학과** | 성균관대학교 | 20.03 ~
+> - **소프트웨어학과** | 성균관대학교 | 20.03 ~ 27.02 (예정)
 
 <br/>
 
